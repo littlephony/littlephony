@@ -5,13 +5,13 @@ I am an Artificial Intelligence student based in Poznań.
 
 # Education
 ---
-**Poznan University of Technology**
-*B.Sc. Artificial Intelligence, 2022-2025*
+**Poznan University of Technology**  
+*B.Sc. Artificial Intelligence, 2022-2025*  
 
 
-**Belarusian State University**
-Faculty of Applied Mathematics and Computer Science
-*B.Sc. Computer Science, 2020-2022*
+**Belarusian State University**  
+Faculty of Applied Mathematics and Computer Science  
+*B.Sc. Computer Science, 2020-2022*  
 
 # Skills
 ---
