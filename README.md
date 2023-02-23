@@ -27,3 +27,4 @@ Faculty of Applied Mathematics and Computer Science
 - [**Machine Learning with PyTorch and Scikit-Learn**](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 - [**Fundamentals of Deep Learning, 2nd Edition**](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
 - [**Inside Deep Learning**](https://www.manning.com/books/inside-deep-learning)
+- [**Practical Statistics for Data Scientists**](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
