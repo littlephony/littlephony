@@ -1,10 +1,9 @@
 # Hey👋🏻
----
 
 I am an Artificial Intelligence student based in Poznań.
 
 # Education
----
+
 **Poznan University of Technology**  
 *B.Sc. Artificial Intelligence, 2022-2025*  
 
@@ -14,7 +13,6 @@ Faculty of Applied Mathematics and Computer Science
 *B.Sc. Computer Science, 2020-2022*  
 
 # Skills
----
 
 - firm grasp of mathematics (calculus, linear algebra, statistics and probability)
 - algorithms and data structures
