@@ -5,6 +5,7 @@ I am an Artificial Intelligence student based in Poznań.
 # Education
 
 **Poznań University of Technology**  
+Faculty of Computing and Telecommunications  
 *B.Sc. Artificial Intelligence, 2022-2025*  
 
 
