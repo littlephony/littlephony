@@ -14,10 +14,12 @@ Faculty of Applied Mathematics and Computer Science
 
 # Skills
 
-- firm grasp of mathematics (calculus, linear algebra, statistics and probability)
-- algorithms and data structures
-- database systems, SQL
-- operating systems, Linux, command line
+- Machine Learning and Deep Learning
+- Firm grasp of mathematics (Calculus, Linear Algebra, Statistics and Probability)
+- Algorithms and Data Structures
+- Software Engineering priciples
+- Database Systems, SQL
+- Operating Systems, Linux, Command line
 
 # Reading list
 
