@@ -18,7 +18,7 @@ Faculty of Applied Mathematics and Computer Science
 - Machine Learning and Deep Learning
 - Firm grasp of mathematics (Calculus, Linear Algebra, Statistics and Probability)
 - Algorithms and Data Structures
-- Software Engineering priciples
+- Software Engineering principles
 - Database Systems, SQL
 - Operating Systems, Linux, Command line
 
