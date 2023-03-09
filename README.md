@@ -41,6 +41,8 @@ Faculty of Applied Mathematics and Computer Science
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=littlephony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills
 
 - Machine Learning and Deep Learning
