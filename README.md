@@ -1,6 +1,6 @@
 # Hey👋🏻
 
-I am an Artificial Intelligence student based in Poznań.
+I am an Artificial Intelligence student based in Poznań, Poland.
 
 # Education
 
