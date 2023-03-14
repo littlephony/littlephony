@@ -43,8 +43,9 @@ Faculty of Applied Mathematics and Computer Science
 # Skills
 
 - Machine Learning and Deep Learning
-- Firm grasp of mathematics (Calculus, Linear Algebra, Statistics and Probability)
+- Calculus, Linear Algebra, Statistics and Probability
 - Algorithms and Data Structures
+- Object-Oriented Programming
 - Software Engineering principles
 - Database Systems, SQL
 - Operating Systems, Linux, Command line
