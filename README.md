@@ -53,6 +53,8 @@ Faculty of Applied Mathematics and Computer Science
 
 # Reading list
 
+Some books that I have read or am reading at the moment.
+
 ### Python:
 - [**Learn Python Programming**](https://www.packtpub.com/product/learn-python-programming-third-edition/9781801815093)
 - [**Clean Code in Python**](https://www.packtpub.com/product/clean-code-in-python-second-edition/9781800560215)
