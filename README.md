@@ -53,10 +53,22 @@ Faculty of Applied Mathematics and Computer Science
 
 # Reading list
 
+### Python:
 - [**Learn Python Programming**](https://www.packtpub.com/product/learn-python-programming-third-edition/9781801815093)
 - [**Clean Code in Python**](https://www.packtpub.com/product/clean-code-in-python-second-edition/9781800560215)
 - [**Python Microservices Development**](https://www.packtpub.com/product/python-microservices-development-second-edition/9781801076302)
+- [**Expert Python Programming**](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109)
+- [**Python Microservices Development**](https://www.packtpub.com/product/python-microservices-development-second-edition/9781801076302)
+
+### Machine Learning:
 - [**Machine Learning with PyTorch and Scikit-Learn**](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+- [**PyTorch Pocket Reference**](https://www.oreilly.com/library/view/pytorch-pocket-reference/9781492089995/)
 - [**Fundamentals of Deep Learning**](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
+- [**MLOps Engineering at Scale**](https://www.manning.com/books/mlops-engineering-at-scale)
 - [**Inside Deep Learning**](https://www.manning.com/books/inside-deep-learning)
 - [**Practical Statistics for Data Scientists**](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+
+### Systems programming:
+- [**The Rust Programming Language**](https://nostarch.com/rust-programming-language-2nd-edition)
+- [**How Linux Works**](https://nostarch.com/howlinuxworks3)
+- [**The Linux Command Line**](https://nostarch.com/tlcl2)
