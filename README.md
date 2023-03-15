@@ -56,7 +56,6 @@ Faculty of Applied Mathematics and Computer Science
 ### Python:
 - [**Learn Python Programming**](https://www.packtpub.com/product/learn-python-programming-third-edition/9781801815093)
 - [**Clean Code in Python**](https://www.packtpub.com/product/clean-code-in-python-second-edition/9781800560215)
-- [**Python Microservices Development**](https://www.packtpub.com/product/python-microservices-development-second-edition/9781801076302)
 - [**Expert Python Programming**](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109)
 - [**Python Microservices Development**](https://www.packtpub.com/product/python-microservices-development-second-edition/9781801076302)
 
