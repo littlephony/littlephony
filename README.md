@@ -44,7 +44,7 @@ Faculty of Applied Mathematics and Computer Science
 - Calculus, Linear Algebra, Statistics and Probability
 - Algorithms and Data Structures
 - Object-Oriented Programming
-- Software Engineering principles
+- Software Engineering Principles
 - Database Systems, SQL
 - Operating Systems, Linux, Command line
 
