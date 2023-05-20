@@ -59,12 +59,19 @@ Some books that I have read or am reading at the moment.
 - [**Python Microservices Development**](https://www.packtpub.com/product/python-microservices-development-second-edition/9781801076302)
 
 ### Machine Learning:
+- [**Practical Statistics for Data Scientists**](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [**Machine Learning with PyTorch and Scikit-Learn**](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 - [**PyTorch Pocket Reference**](https://www.oreilly.com/library/view/pytorch-pocket-reference/9781492089995/)
 - [**Fundamentals of Deep Learning**](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
-- [**MLOps Engineering at Scale**](https://www.manning.com/books/mlops-engineering-at-scale)
 - [**Inside Deep Learning**](https://www.manning.com/books/inside-deep-learning)
-- [**Practical Statistics for Data Scientists**](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [**MLOps Engineering at Scale**](https://www.manning.com/books/mlops-engineering-at-scale)
+
+### Data Engineering
+
+- [**Mastering Large Datasets with Python**](https://www.manning.com/books/mastering-large-datasets-with-python)
+- [**Data Pipelines with Apache Airflow**](https://www.manning.com/books/data-pipelines-with-apache-airflow)
+- [**Learning Spark**](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
+- [**AWS for Non-Engineers**](https://www.manning.com/books/aws-for-non-engineers)
 
 ### Systems programming:
 - [**The Rust Programming Language**](https://nostarch.com/rust-programming-language-2nd-edition)
